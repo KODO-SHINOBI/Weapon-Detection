@@ -1,5 +1,5 @@
 # Weapon Detection Using YOLO
-<p><b>Note :- The model we have programmed is in general form which means you can used this model to lern and detect object of your choice.</b></p>
+<p><b>Note :- The model we have programmed is in generalized form which means you can use this model to learn and detect object of your choice.</b></p>
 <br />
 <p>Here we will introduce you about YOLO and how to use it as Object Detection Model.</p>
 <br />
