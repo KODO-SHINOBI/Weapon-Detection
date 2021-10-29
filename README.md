@@ -1,4 +1,5 @@
 # Weapon Detection Using YOLO
+<p><b>Note :- The model we have programmed is in general form which means you can used this model to lern and detect object of your choice.</b></p>
 <br />
 <p>Here we will introduce you about YOLO and how to use it as Object Detection Model.</p>
 <br />
@@ -33,7 +34,7 @@
 </p>python yolo.py --image True --image_path Images/1.jpg</p>
 <br /><br />
 
-<h1> Breakdown Of Program , How Program Works , & What Resources Neede</h1>
+<h1> Breakdown Of Program , How Program Works , & What Resources Needed</h1>
 <br />
 <h3>Importing Modules</h3>
 <p>We must need to include these modules at first. And if the module is missing then you must install it first.Then You can import it as shown.</p>
@@ -58,3 +59,15 @@
 
 <p>6.This function is used to detect objects in videos.</p>
 <img src=" " alt="start_video function"/>
+
+<p>7.This function is used to get the dimensions of specified objects only.</p>
+<img src=" " alt="get_box_dimensions function"/>
+
+p>8.This function is used draw labels around the specified object with their name and boxes surrounding them.</p>
+<img src=" " alt="draw_labels function"/>
+
+p>9.Incomplete.</p>
+<img src=" " alt="display_blob function"/>
+
+p>10.Incomplete.</p>
+<img src=" " alt="detect_object function"/>
