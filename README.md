@@ -31,5 +31,30 @@
 <p>python yolo.py --play_video True --video_path videos/1.mp4</p>
 <p>or</p>
 </p>python yolo.py --image True --image_path Images/1.jpg</p>
+<br /><br />
+
+<h1> Breakdown Of Program , How Program Works , & What Resources Neede</h1>
+<br />
+<h3>Importing Modules</h3>
+<p>We must need to include these modules at first. And if the module is missing then you must install it first.Then You can import it as shown.</p>
+<img src=" " alt="importing module"/>
 <br />
 
+<h3>Functions & Their Use</h3>
+<p>1.Below shown function is used to load yolo.</p>
+<img src=" " alt="load_yolo function"/>
+
+<p>2.This function is used to read images from the file specified.</p>
+<img src=" " alt="load_image function"/>
+
+<p>3.This function is used to detect objects in the images being loaded.</p>
+<img src=" " alt="image_detect function"/>
+
+<p>4.This function is used to start webcamp to take real-time images/recordings.</p>
+<img src=" " alt="start_webcam function"/>
+
+<p>5.This function is used to specified objects in the webcam recording.</p>
+<img src=" " alt="webcam_detect function"/>
+
+<p>6.This function is used to detect objects in videos.</p>
+<img src=" " alt="start_video function"/>
